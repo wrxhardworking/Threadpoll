@@ -17,3 +17,7 @@ Use c 11 implementation of a thread pool,There is a lot of room to improve.
  4. future期物的使用(异步提供)
  5. 函数后置返回类型（auto和decltype的混合使用）
  6. 多参函数模板的使用
+ 
+ 
+详解：
+https://blog.csdn.net/weixin_59253379/article/details/126693265?spm=1001.2014.3001.5501
